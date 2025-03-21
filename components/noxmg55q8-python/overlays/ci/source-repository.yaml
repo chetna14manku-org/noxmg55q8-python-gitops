@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: noxmg55q8-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/noxmg55q8-python
